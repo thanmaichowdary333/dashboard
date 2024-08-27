@@ -3,7 +3,7 @@
 1. Brand vs. Selling Price:
 Certain brands command significantly higher selling prices than others, indicating brand reputation and perceived value are major factors in pricing.
 The variation in prices among different brands can help identify premium and budget segments.
-2. Transmission vs. Selling Price:
+3. Transmission vs. Selling Price:
 There is a noticeable difference in selling prices based on the type of transmission.
 Cars with automatic transmissions tend to have higher selling prices compared to those with manual transmissions, suggesting a market preference or perceived value in automatic vehicles.
 4. Fuel Type vs. Selling Price:
@@ -24,7 +24,8 @@ High-performance vehicles with greater power are likely to be priced higher, app
 9. Number of Owners vs. Selling Price:
 Cars with fewer previous owners tend to have higher selling prices, highlighting the importance of ownership history in valuation.
 This reflects buyer preference for vehicles that are perceived as less used or better maintained.
- Insights:
+
+Insights:
 Pricing Strategy: Sellers should consider brand reputation, transmission type, and fuel type when pricing their vehicles to maximize returns.
 Market Targeting: Marketing strategies should highlight features like low ownership, high engine power, and automatic transmission to attract higher bids.
 Buyer Education: Buyers should be made aware of the impact of factors like year of manufacture, torque, and engine capacity on car prices, helping them make informed decisions.
